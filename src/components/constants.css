@@ -1,0 +1,24 @@
+/* tokens-cor */
+
+:root {
+  --background-page: #eeebff;
+  --b300: #0065ff;
+  --blue-footer: #172b4d;
+  --white: #faf9ff;
+  --gray: #d3d3d3;
+
+  --text-header: #172b4d;
+  --text-strong: #091e42;
+  --text-gray: #5e6c84;
+  --text-hover-header: #0052cc;
+
+  --font-1: 16px;
+  --font-2: 19.2px;
+  --font-h1: 48px;
+  --font-h1-2: 24px;
+  --font-h1-3: 36px;
+  --font-p: 20px;
+  --font-p-small: 12px;
+
+  --bg-gradient: linear-gradient(rgb(64, 50, 148), rgb(76, 154, 255)) no-repeat;
+}

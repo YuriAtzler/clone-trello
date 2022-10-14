@@ -1,0 +1,45 @@
+.section-5 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: #e6fcff;
+  padding: 10rem 15rem 10rem 20rem;
+  justify-content: center;
+  position: relative;
+}
+
+.section-5 h1 {
+  font-size: var(--font-h1-3);
+  color: var(--text-strong);
+  font-weight: 500;
+  line-height: 3rem;
+}
+
+.section-5 div {
+  display: flex;
+  margin-top: 2rem;
+  gap: 5rem;
+}
+
+.section-5 div p {
+  font-size: var(--font-1);
+  color: var(--text-strong);
+  font-weight: 600;
+}
+
+.section-5 img {
+  position: absolute;
+}
+
+.ebay-img {
+  width: 164px;
+  bottom: 120px;
+  right: 250px;
+}
+
+.aspas-img {
+  width: 33px;
+  height: 31px;
+  top: 165px;
+  left: 265px;
+}
