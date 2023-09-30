@@ -4,4 +4,6 @@ Trabalho realizado no Vem Ser!
 
 > link Vercel: <https://clone-trello-gold.vercel.app/>
 
-Clone home-page Trello 
+# Teste usando o gitKraken
+
+Clone home-page Trello
